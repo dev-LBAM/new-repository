@@ -1,2 +1,3 @@
-# new-repository
- first repository versioned
+# New Repository!
+
+Learn to use git and github
